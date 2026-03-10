@@ -1,4 +1,4 @@
-# 🔮 Ourofinder
+Ourofinder
 
 ![Ourofinder Logo](https://img.shields.io/badge/Ourofinder-Solver_%26_Simulator-8b5cf6?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
