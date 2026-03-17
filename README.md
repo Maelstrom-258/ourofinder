@@ -80,7 +80,7 @@ npm run bot
 
 ---
 
-## 🤝 Como o Algoritmo Funciona (Dica para Desenvolvedores)
+## 🤝 Como o Algoritmo Funciona
 
 Os solvers que residem em `src/core` funcionam da seguinte forma:
 1. Validam o tabuleiro inserido inicialmente (retornam erro se o estado fornecido for matematicamente impossível ou contraditório).
